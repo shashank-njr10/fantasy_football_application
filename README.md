@@ -1,35 +1,64 @@
-#⚽ Fantasy Football - Premier League Edition
+
+
+---
+
+# ⚽ Fantasy Football - Premier League Edition
 
 A full-featured Premier League Fantasy Football web application that lets you manage your own fantasy team, track real-time scores, and compete with friends in custom contests.
 
-Features
-Live Score Tracking
-Stay updated with real-time scores from Premier League matches.
+---
 
-Player Statistics
-View in-depth performance stats and analytics for all players.
+## ✨ Features
 
-Team Management
-Build your dream team, make transfers, and strategize each gameweek.
+* **Live Score Tracking**
+  Stay updated with real-time scores from Premier League matches.
 
-Contests & Leaderboards
-Create or join contests, climb leaderboards, and challenge your friends.
+* **Player Statistics**
+  View in-depth performance stats and analytics for all players.
 
-Tech Stack
-Frontend: React + Vite + CSS
-Backend: Java (Spring Boot)
-Live Data: (Live scores and player stats integrated via APIs)
-Getting Started
-# Clone the repository
+* **Team Management**
+  Build your dream team, make transfers, and strategize each gameweek.
+
+* **Contests & Leaderboards**
+  Create or join contests, climb leaderboards, and challenge your friends.
+
+---
+
+## 🛠 Tech Stack
+
+* **Frontend:** React + Vite + CSS
+* **Backend:** Java (Spring Boot)
+* **Live Data:** Real-time scores and player stats integrated via external APIs
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
 git clone https://github.com/sanjay103108/Fantasy-Football.git
+```
 
-# Navigate to frontend
-cd client
+---
 
-# Install dependencies and start dev server
+### 2. Frontend Setup
+
+```bash
+cd fantasy_league_project/frontend/fantasy-league
 npm install
-npm run dev
+npm run start
+```
 
-# Backend setup (Spring Boot)
-cd server
+---
+
+### 3. Backend Setup (Spring Boot)
+
+```bash
+cd fantasy_league_project/backend/fantasy-league-api
 ./mvnw spring-boot:run
+```
+
+> You can also use `mvn spring-boot:run` if you have Maven installed globally.
+
+-

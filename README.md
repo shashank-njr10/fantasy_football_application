@@ -37,7 +37,7 @@ A full-featured Premier League Fantasy Football web application that lets you ma
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/sanjay103108/Fantasy-Football.git
+https://github.com/shashank-njr10/fantasy_football_application.git
 ```
 
 ---

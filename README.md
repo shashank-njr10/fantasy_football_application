@@ -1,4 +1,5 @@
-⚽ Fantasy Football - Premier League Edition
+#⚽ Fantasy Football - Premier League Edition
+
 A full-featured Premier League Fantasy Football web application that lets you manage your own fantasy team, track real-time scores, and compete with friends in custom contests.
 
 Features
